@@ -1,0 +1,2 @@
+g++ pac.cpp -o sc.out  -lGL -lGLU -lglut -lm -ldl
+./sc.ot
